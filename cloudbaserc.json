@@ -10,7 +10,7 @@
         "inputs": {
           "entry": "app.js",
           "name": "waline",
-          "path": "/"
+          "path": "/waline"
         }
       }
     }

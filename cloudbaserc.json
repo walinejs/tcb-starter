@@ -10,7 +10,8 @@
         "inputs": {
           "entry": "app.js",
           "name": "waline",
-          "path": "/waline"
+          "path": "/waline",
+          "runtime": "Nodejs12.16"
         }
       }
     }

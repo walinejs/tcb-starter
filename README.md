@@ -29,7 +29,7 @@ Waline 是一款基于 Valine 衍生的简洁、安全的评论系统，该项�
 你也可以下载项目后，使用 [CloudBase CLI](https://docs.cloudbase.net/cli-v1/intro.html) 在终端中一键部署。
 
 ```
-npx @cloudbase/cli -e 环境id
+tcb framework deploy --verbose -e 环境id
 ```
 
 ## 文档

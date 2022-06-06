@@ -7,6 +7,6 @@
     "@waline/cloudbase": "latest"
   },
   "devDependencies": {
-    "@cloudbase/framework-plugin-node": "1.9.0"
+    "@cloudbase/framework-plugin-node": "1.9.4"
   }
 }
